@@ -1,0 +1,13 @@
+{
+  "name": "diamonds",
+  "version": "1.0.0",
+  "description": "Diamond shape exercises",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests configured yet\""
+  },
+  "keywords": [],
+  "license": "ISC"
+}
