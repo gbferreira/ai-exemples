@@ -9,9 +9,9 @@ s = size of diamonds;
 
 Exemple 1:
 diamonds(3, 1, 2)
-./\.
-/..\
-\../
+./\.  se i = j \ ou / (se anterior for \ poe /)
+/..\  se i != j = . 
+\../.   i e j começam dos pivos; Como definir os pivos ? Se S = 2 o pivo é 0 e 2
 .\/.
 ./\.
 /..\
